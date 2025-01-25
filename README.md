@@ -1,6 +1,6 @@
 # Olá, eu sou Isaac Rodrigo Ribeiro 
 
-```ruby 
+```phyton 
 class Programmer
 
 	def initialize() 
